@@ -52,6 +52,10 @@
   --color-red: #b50000;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-family);
   font-size: 16px;
